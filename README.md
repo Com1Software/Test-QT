@@ -1,8 +1,8 @@
 # Test-QT-QML
 
 
-[qt](https://github.com/therecipe/qt)
+[qt](https://www.qt.io/)
 
 [qt - Wikapedia](https://en.wikipedia.org/wiki/Qt_(software))
 
-[golang - therecipe/qt](https://www.qt.io/)
+[golang - therecipe/qt](https://github.com/therecipe/qt)
